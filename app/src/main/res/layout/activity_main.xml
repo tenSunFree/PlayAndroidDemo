@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.home.playandroiddemo.main.view.MainComponent xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_component"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".home.view.HomeFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+    <!--
+    <com.zj.core.view.custom.TitleBar
+        android:id="@+id/homeTitleBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:backImageVisiable="false"
+        app:titleName="@string/home_page" />
+
+    <com.youth.banner.Banner
+        android:id="@+id/homeBanner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_180" />
+
+    <com.youth.banner.Banner
+        android:id="@+id/homeBanner2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <com.scwang.smartrefresh.layout.SmartRefreshLayout
+        android:id="@+id/homeSmartRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/homeRecycleView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </com.scwang.smartrefresh.layout.SmartRefreshLayout>
+-->
+</androidx.constraintlayout.widget.ConstraintLayout>
