@@ -9,7 +9,7 @@
 PlayAndroid           
 https://github.com/zhujiang521/PlayAndroid 
 	
-HAPPY GO
+HAPPY GO           
 https://play.google.com/store/apps/details?id=com.ddim.happygo&hl=zh_TW&gl=US 
                                                                                                                 
 預覽
@@ -21,5 +21,5 @@ https://play.google.com/store/apps/details?id=com.ddim.happygo&hl=zh_TW&gl=US
 
 備註
 --------
-圖片資源僅供學習交流之用, 請勿用於商業用途, 如有侵權請聯繫刪除, 謝謝	
+圖片資源僅供學習交流之用, 請勿用於商業用途, 如有侵權請聯繫刪除, 謝謝           
 因為時間有限, 目前代碼較雜亂, 等之後比較有時間再來整理
